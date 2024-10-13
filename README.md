@@ -14,7 +14,7 @@ I am a frontend developer and DevOps engineer working as a freelancer. I am draw
 
 💞️ I am open to collaborating on gamedev, art and creative projects.
 
-📫 You can reach me via email: [de43gy@gmail.com](mailto:de43gy@gmail.com) or on Telegram: [@mad_ape](https://t.me/mad_ape).
+📫 You can reach me via email: [de43gy@gmail.com](mailto:de43gy@gmail.com), fb: [k.shabalin](https://www.facebook.com/k.shabalin) or on Telegram: [@mad_ape](https://t.me/mad_ape).
 
 ## Technologies & Skills
 - **Frontend:** JavaScript, HTML, CSS
