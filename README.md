@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a frontend developer and DevOps engineer working as a freelancer. I am drawn to challenging projects and creative solutions, where I can combine my love for technology and art.
+I am DevOps engineer working as a freelancer. I am drawn to challenging projects and creative solutions, where I can combine my love for technology and art.
 
 👀 My interests include:
 - Science/media and sound art;
