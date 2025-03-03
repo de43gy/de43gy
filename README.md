@@ -18,7 +18,7 @@ I am DevOps engineer working as a freelancer. I am drawn to challenging projects
 
 ## Technologies & Skills
 - **Frontend:** JavaScript, HTML, CSS
-- **Backend:** C#
+- **Backend:** C#, Python
 - **DevOps:** Docker, CI/CD, infrastructure management
 - **GameDev:** GDScript, Godot Engine, Unity (beginner level because I don't like it much)
 - **Media Art & DIY:** Arduino, Raspberry Pi, lot of LEDs and noises and cinetics
