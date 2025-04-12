@@ -37,4 +37,5 @@ Also i always open to collaborating on gamedev, art and creative projects.
 ## Connect with Me
 
 😊 If you're interested in collaborative projects, ideas, or just want to talk about technology, art, or gamedev — let's get in touch!
+
 📫 You can reach me via email: [de43gy@gmail.com](mailto:de43gy@gmail.com), fb: [k.shabalin](https://www.facebook.com/k.shabalin) or on Telegram: [@mad_ape](https://t.me/mad_ape).
