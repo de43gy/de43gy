@@ -13,8 +13,9 @@ I am a freelance DevOps engineer passionate about bridging technology and art. I
 
 🌱 I am currently learning GDScript and Godot Engine, as well as Python and JavaScript.
 
-🇺🇦 I am from Russia and I am against the war in Ukraine. I am ready to offer my technical skills (DevOps, web application and chatbot development, infrastructure support) on a voluntary basis to non-profit and human rights organizations that share my values.
-💞️ Also i always open to collaborating on gamedev, art and creative projects.
+I am from Russia and I am against the war in Ukraine. I am ready to offer my technical skills (DevOps, web application and chatbot development, infrastructure support) on a voluntary basis to non-profit and human rights organizations that share my values.
+
+Also i always open to collaborating on gamedev, art and creative projects.
 
 ## Technologies & Skills
 
