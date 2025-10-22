@@ -39,7 +39,6 @@ Also i always open to collaborating on gamedev, art and creative projects.
 ## Statistic
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=de43gy&layout=compact&langs_count=6&theme=radical)
-[![de43gy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=de43gy&theme=github-dark)](https://github.com/de43gy)
 
 ## Connect with Me
 
